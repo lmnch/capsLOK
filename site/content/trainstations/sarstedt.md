@@ -1,9 +1,9 @@
 ——-
 title: Sarstedt
 date: 2022-07-21
+description: Kleiner Bahnhof
 image: /img/blog-chemex.jpg
 ——-
-
 
 Oder sollte ich lieber sagen Susstedt???
 Kleiner Bahnhof mit angrenzendem Parkplatz
