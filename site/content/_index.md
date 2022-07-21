@@ -1,6 +1,6 @@
 ---
-title: "CapsLOK - Ein Blog über die Bahnhöfe Deutschlands"
-subtitle: Support sustainable farming while enjoying a cup
+title: "CapsLOK"
+subtitle: Ein Blog über die Bahnhöfe Deutschlands
 image: /img/hannover.jpeg
 blurb:
     heading: Why Kaldi?
