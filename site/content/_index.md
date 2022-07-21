@@ -1,5 +1,5 @@
 ---
-title: "CapsLOK - Eine Blog über die Bahnhöfe Deutschlands"
+title: "CapsLOK - Ein Blog über die Bahnhöfe Deutschlands"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/hannover.jpeg
 blurb:
