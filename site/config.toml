@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "de-de"
 languageLang = "de"
 title = "capsLOK"
+Title = "capsLOK"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
