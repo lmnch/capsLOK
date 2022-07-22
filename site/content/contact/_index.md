@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
-logo: "/img/logo.svg"
+logo: "/img/logo.jpeg"
 ---
 
 Wir freuen uns über destruktive Kritik und wüste Beschimpfungen.
